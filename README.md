@@ -75,6 +75,6 @@ This project relies on the following Rust crates:
 
 ## License
 
-Licensed under the MIT License. See the LICENSE file for details.
+Licensed under the [MIT License](https://opensource.org/license/MIT).
 
 
