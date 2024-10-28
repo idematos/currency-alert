@@ -4,14 +4,14 @@ This is a currency alert system that monitors exchange rates between two configu
 
 ## Features
 
-- Fetches real-time exchange rates for any currency pair (e.g., EUR/BRL, USD/JPY).
+- Fetches real-time exchange rates for any currency pair.
 - Sends an email alert when the specified threshold is reached.
 - Easily configurable alert conditions, currencies, and SMTP settings via .env file.
 
 ## Requirements
 
 - [Rust](https://www.rust-lang.org/tools/install) installed.
-- An email service with SMTP access (e.g., Gmail, Outlook).
+- An email service with SMTP access.
 - Access to an exchange rate API, such as [ExchangeRate-API](https://www.exchangerate-api.com/) or any other provider that supports setting a base currency dynamically.
 
 ## Installation
@@ -33,7 +33,7 @@ This is a currency alert system that monitors exchange rates between two configu
 
 ## Configuration
 
-Create a `.env` file in the project directory and add the following configurations:
+Create a .env file in the project directory and add the following configurations:
 
 ```plaintext
 # Exchange Rate API URL (replace with actual API if necessary)
