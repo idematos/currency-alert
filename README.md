@@ -6,7 +6,7 @@ This is a currency alert system that monitors exchange rates between two configu
 
 - Fetches real-time exchange rates for any currency pair (e.g., EUR/BRL, USD/JPY).
 - Sends an email alert when the specified threshold is reached.
-- Easily configurable alert conditions, currencies, and SMTP settings via `.env` file.
+- Easily configurable alert conditions, currencies, and SMTP settings via .env file.
 
 ## Requirements
 
