@@ -10,7 +10,7 @@ This is a currency alert system that monitors exchange rates between two configu
 
 ## Requirements
 
-- [Rust](https://www.rust-lang.org/tools/install) installed.
+- [Rust](https://www.rust-lang.org/tools/install) and [Cargo](https://doc.rust-lang.org/cargo/) installed.
 - An email service with SMTP access.
 - Access to an exchange rate API, such as [ExchangeRate-API](https://www.exchangerate-api.com/) or any other provider that supports setting a base currency dynamically.
 
